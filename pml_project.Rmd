@@ -1,6 +1,6 @@
 ---
 title: "PML_Project"
-output: pdf_document
+output: html_document
 ---
 
 Starting with the analysis, we load de library we will need.
